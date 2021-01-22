@@ -3,7 +3,16 @@ An automatic nuclei detection application through convolutional neural network t
 
 The final report is available on [GitHub](https://github.com/kevinshen56714/NucleiTracker/blob/main/Final%20Report.pdf) or [Google Drive](https://drive.google.com/file/d/1hn8oPZVmFTLSi3PdyBT5aKUOSiKyKaxw/view?usp=sharing).
 
-A representative example from our predictions:
+A representative example from our predictions using CNN and U-Net:
 <p align="center">
-	<img src="snapshot.png"/>
+	<img src="Examples/Snapshot.png"/>
+</p>
+
+Improvement is significant when clustering pre-processing is performed prior to traing the machine models, see representative results below:
+<p align="center">
+	<img src="Examples/Clustering1.png"/>
+</p>
+
+<p align="center">
+	<img src="Examples/Clustering2.png"/>
 </p>
