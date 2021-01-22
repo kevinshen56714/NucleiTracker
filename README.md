@@ -3,6 +3,7 @@ An automatic nuclei detection application through convolutional neural network t
 
 The final report is available on [GitHub](https://github.com/kevinshen56714/NucleiTracker/blob/main/Final%20Report.pdf) or [Google Drive](https://drive.google.com/file/d/1hn8oPZVmFTLSi3PdyBT5aKUOSiKyKaxw/view?usp=sharing).
 
+## Examples
 A representative example from our predictions using CNN and U-Net:
 <p align="center">
 	<img src="Examples/Snapshot.png"/>
