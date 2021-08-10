@@ -9,7 +9,7 @@ A representative example from our predictions using CNN and U-Net:
 	<img src="Examples/Snapshot.png"/>
 </p>
 
-Improvement is significant when clustering pre-processing is performed prior to traing the machine models, see representative results below:
+Improvement is significant when clustering pre-processing is performed prior to training the machine models, see representative results below:
 <p align="center">
 	<img src="Examples/Clustering1.png"/>
 </p>
